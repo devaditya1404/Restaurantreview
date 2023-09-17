@@ -57,10 +57,11 @@ print("Training Accuracy: {}%".format(train_acc))
 print("Test Accuracy: {}%".format(test_acc))
 ---------------------------------------------END OF CODE-----------------------------------------------------------------------------------------
               
-///After running these code we get our 
-              1)Test Accuracy
-              2)Training Accuracy
-              [nltk_data] Downloading package stopwords to /root/nltk_data...
-[nltk_data]   Package stopwords is already up-to-date!
-Training Accuracy: 86.78%
-Test Accuracy: 82.0%
+#After running these code we get our 
+#             1)Test Accuracy
+#              2)Training Accuracy
+#              [nltk_data] Downloading package stopwords to /root/nltk_data...
+#[nltk_data]   Package stopwords is already up-to-date!
+#Training Accuracy: 86.78%
+#Test Accuracy: 82.0% 
+#
